@@ -30,7 +30,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:title="Language Training"
             app:titleTextColor="#000000"
-            app:titleMarginStart="40dp"
+            app:titleMarginStart="41dp"
             tools:ignore="MissingConstraints" />
         <TextView
             android:id="@+id/textview1"
