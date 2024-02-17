@@ -25,7 +25,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#009ed9"
+            android:background="#FFC107"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
             app:layout_constraintEnd_toEndOf="parent"
             app:title="Language Training"
@@ -90,7 +90,7 @@
                         android:layout_below="@id/imageView2"
                         android:layout_centerHorizontal="true"
                         android:text="Java Coding"
-                        android:textColor="#000fff"
+                        android:textColor="#FFEB3B"
                         android:textSize="15dp"
                         android:textStyle="bold"/>
                 </RelativeLayout>
@@ -115,7 +115,7 @@
                         android:layout_below="@id/imageView3"
                         android:layout_centerHorizontal="true"
                         android:text="Python Programming"
-                        android:textColor="#000fff"
+                        android:textColor="#FFEB3B"
                         android:textSize="15dp"
                         android:textStyle="bold"/>
                 </RelativeLayout>
@@ -149,7 +149,7 @@
                         android:layout_below="@id/imageView4"
                         android:layout_centerHorizontal="true"
                         android:text="C++ Programming"
-                        android:textColor="#000fff"
+                        android:textColor="#FFEB3B"
                         android:textSize="15dp"
                         android:textStyle="bold" />
                 </RelativeLayout>
@@ -174,7 +174,7 @@
                         android:layout_below="@id/imageView5"
                         android:layout_centerHorizontal="true"
                         android:text="HTML Coding"
-                        android:textColor="#000fff"
+                        android:textColor="#FFEB3B"
                         android:textSize="15dp"
                         android:textStyle="bold" />
                 </RelativeLayout>
@@ -209,7 +209,7 @@
                         android:layout_below="@id/imageView6"
                         android:layout_centerHorizontal="true"
                         android:text="App Development"
-                        android:textColor="#000fff"
+                        android:textColor="#FFEB3B"
                         android:textSize="15dp"
                         android:textStyle="bold" />
                 </RelativeLayout>
@@ -234,7 +234,7 @@
                         android:layout_below="@id/imageView7"
                         android:layout_centerHorizontal="true"
                         android:text="Machine Learning"
-                        android:textColor="#000fff"
+                        android:textColor="#FFEB3B"
                         android:textSize="15dp"
                         android:textStyle="bold" />
                 </RelativeLayout>
